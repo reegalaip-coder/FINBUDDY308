@@ -45,3 +45,5 @@ requests.post(
           "text": f"📈 Daily Update {today}\n\n{summary}\n\n{fallback}"},
     timeout=30,
 )
+print("Telegram:", resp.status_code, resp.text)
+resp.raise_for_status()
