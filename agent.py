@@ -3,7 +3,7 @@ import os, json, datetime, warnings, requests, yfinance as yf
 warnings.filterwarnings("ignore")
 
 TICKERS = ["AAPL", "MSFT", "^GSPC", "BTC-USD", "AUDUSD=X"]  # edit these
-GEMINI_MODEL = "gemini-2.5-flash"  # check AI Studio for the current free model
+GEMINI_MODEL = "gemini-3.8-flash"  # check AI Studio for the current free model
 
 # 1. Fetch market data
 rows = []
