@@ -1,0 +1,30 @@
+{
+  "rows": [
+    {
+      "ticker": "AAPL",
+      "price": 348.91,
+      "change_pct": 1.48
+    },
+    {
+      "ticker": "MSFT",
+      "price": 530.14,
+      "change_pct": -0.16
+    },
+    {
+      "ticker": "^GSPC",
+      "price": 7720.39,
+      "change_pct": -0.3
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 79066.29,
+      "change_pct": -2.71
+    },
+    {
+      "ticker": "AUDUSD=X",
+      "price": 0.7,
+      "change_pct": 0.03
+    }
+  ],
+  "summary": "AAPL: 348.91 (+1.48%)\nMSFT: 530.14 (-0.16%)\n^GSPC: 7720.39 (-0.3%)\nBTC-USD: 79066.29 (-2.71%)\nAUDUSD=X: 0.7 (+0.03%)"
+}
