@@ -18,23 +18,47 @@ for t in TICKERS:
     except Exception as e:
         print(f"Failed {t}: {e}")
 
-# 2. Summarize with Gemini (falls back to raw data if it fails)
+# 2. Summarize with Gemini (retries, then falls back to raw data)
+import time
+
 fallback = "\n".join(f"{r['ticker']}: {r['price']} ({r['change_pct']:+}%)" for r in rows)
 summary = fallback
+prompt = ("Write a short, factual market update (max 120 words) from this data. "
+          "No buy/sell advice.\n" + json.dumps(rows))
+MODELS = [GEMINI_MODEL, "gemini-2.5-flash"]  # backup model if the first is overloaded
+
+
+def ask_gemini():
+    for model in MODELS:
+        for attempt in range(4):
+            try:
+                g = requests.post(
+                    f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                    headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]},
+                    json={"contents": [{"parts": [{"text": prompt}]}]},
+                    timeout=60,
+                )
+            except Exception as e:
+                print(f"Gemini {model} attempt {attempt + 1} error: {e}")
+                time.sleep(5 * (attempt + 1))
+                continue
+            print(f"Gemini {model} attempt {attempt + 1} status:", g.status_code)
+            if g.status_code == 200:
+                try:
+                    return g.json()["candidates"][0]["content"]["parts"][0]["text"]
+                except Exception:
+                    print("Gemini reply:", g.text[:500])
+                    break
+            if g.status_code in (429, 500, 503):  # busy: wait and retry
+                time.sleep(5 * (attempt + 1))
+                continue
+            print("Gemini reply:", g.text[:500])
+            break  # other error (bad key etc): try next model
+    return None
+
+
 try:
-    prompt = ("Write a short, factual market update (max 120 words) from this data. "
-              "No buy/sell advice.\n" + json.dumps(rows))
-    g = requests.post(
-        f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent",
-        headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]},
-        json={"contents": [{"parts": [{"text": prompt}]}]},
-        timeout=60,
-    )
-    print("Gemini status:", g.status_code)
-    try:
-        summary = g.json()["candidates"][0]["content"]["parts"][0]["text"]
-    except Exception:
-        print("Gemini reply:", g.text[:500])
+    summary = ask_gemini() or fallback
 except Exception as e:
     print(f"Gemini failed, using raw data: {e}")
 
@@ -55,4 +79,7 @@ resp = requests.post(
     timeout=30,
 )
 print("Telegram:", resp.status_code, resp.text)
+if resp.status_code == 404:
+    print("404 = Telegram does not recognise TELEGRAM_TOKEN. Re-copy it from @BotFather "
+          "(no spaces, quotes or the word 'bot' in front).")
 resp.raise_for_status()
