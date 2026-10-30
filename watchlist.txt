@@ -1,0 +1,16 @@
+# YOUR WATCHLIST: one ticker per line (or several separated by spaces/commas).
+# Lines starting with # are ignored. Edit this file on GitHub (works from your phone),
+# commit, and the next run uses it.
+#
+# Ticker formats (Yahoo Finance):
+#   US stocks    AAPL  MSFT  TSLA
+#   ASX stocks   add .AX     CBA.AX  BHP.AX  CSL.AX
+#   Crypto       add -USD    BTC-USD  ETH-USD
+#   Currencies   add =X      AUDUSD=X
+#   Indexes      start ^     ^GSPC (S&P 500)  ^AXJO (ASX 200)
+
+AAPL
+MSFT
+CBA.AX
+BHP.AX
+BTC-USD
