@@ -9,8 +9,17 @@
 #   Currencies   add =X      AUDUSD=X
 #   Indexes      start ^     ^GSPC (S&P 500)  ^AXJO (ASX 200)
 
-AAPL
-MSFT
+^NDX     # Nasdaq 100 index
+NDQ.AX
+^AXJO    # ASX 200 index
+^ATLI     # S&P/ASX 20 index (unconfirmed code)
+ILC.AX    # iShares S&P/ASX 20 ETF, tracks the same index
+A200.AX
 CBA.AX
 BHP.AX
+FMG.AX
+NAB.AX
+WES.AX
+ANZ.AX
+GYG.AX
 BTC-USD
