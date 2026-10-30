@@ -11,6 +11,7 @@ a full analysis of those stocks right now, whether or not anything is unusual.
 No buy/sell advice. This is information, not financial advice.
 """
 import os, json, time, datetime, warnings, requests, yfinance as yf
+import marketdata as market
 
 warnings.filterwarnings("ignore")
 
@@ -62,7 +63,7 @@ def fetch(t):
     for attempt in range(2):
         try:
             print(f"Fetching {t}...", flush=True)
-            h = yf.Ticker(t).history(period="1y", timeout=15)
+            h = market.history(t, "1y")
             if len(h) >= 2:
                 return h
         except Exception as e:
@@ -74,7 +75,7 @@ def fetch(t):
 def get_news(t):
     out = []
     try:
-        items = yf.Ticker(t).news or []
+        items = yf.Ticker(market.base_symbol(t)).news or []
     except Exception:
         return out
     now = datetime.datetime.now(datetime.timezone.utc)
@@ -99,6 +100,8 @@ def get_news(t):
 
 
 def earnings_soon(t):
+    if t in market.ALIASES:   # gold/silver have no earnings
+        return None
     try:
         cal = yf.Ticker(t).calendar
         dates = cal.get("Earnings Date") if isinstance(cal, dict) else None
@@ -243,7 +246,8 @@ def summarise(items):
 # ---------- message building ----------
 def fmt(r, manual):
     icon = "🟢" if (r["change_pct"] or 0) >= 0 else "🔴"
-    lines = [f"{icon} {r['ticker']}  {r['price']} ({(r['change_pct'] or 0):+.1f}%)"]
+    lines = [f"{icon} {market.display(r['ticker'])}  {market.money(r['price'], r['ticker'])} "
+             f"({(r['change_pct'] or 0):+.1f}%)"]
     for fl in r["flags"]:
         lines.append(f"  • {fl}")
     if manual:
@@ -314,7 +318,7 @@ def main():
     summary = None
     flagged = [r for r in shown if r["flags"]]
     if flagged:
-        summary = summarise([{"ticker": r["ticker"], "price": r["price"],
+        summary = summarise([{"ticker": market.display(r["ticker"]), "price": r["price"],
                               "change_pct": r["change_pct"], "flags": r["flags"],
                               "headlines": r.get("news", [])} for r in flagged])
 

@@ -9,6 +9,12 @@
 #   Currencies   add =X      AUDUSD=X
 #   Indexes      start ^     ^GSPC (S&P 500)  ^AXJO (ASX 200)
 
+#   Gold/silver in rupees (built from futures prices; NOT a jeweller's price):
+#               GOLD-INR (per 10 g)   SILVER-INR (per kg)
+#               GOLD-AUD (per gram)   SILVER-AUD (per 10 g)
+#   Raw futures in US dollars per ounce:  GC=F (gold)  SI=F (silver)
+
+
 ^NDX     # Nasdaq 100 index
 NDQ.AX
 ^AXJO    # ASX 200 index
@@ -23,3 +29,7 @@ WES.AX
 ANZ.AX
 GYG.AX
 BTC-USD
+^AXJO
+^NDX
+GOLD-INR
+SILVER-INR

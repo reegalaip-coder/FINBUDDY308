@@ -11,6 +11,7 @@ or flips direction. The alert memory is kept in state/alerts.json.
 Information only, not financial advice.
 """
 import os, json, time, datetime, warnings, requests, yfinance as yf
+import marketdata as market
 
 warnings.filterwarnings("ignore")
 
@@ -44,7 +45,7 @@ def fetch(t):
     for attempt in range(2):
         try:
             print(f"Fetching {t}...", flush=True)
-            h = yf.Ticker(t).history(period="5d", timeout=15)
+            h = market.history(t, "5d")
             close = h["Close"].dropna()
             if len(close) >= 2:
                 return close
@@ -57,7 +58,7 @@ def fetch(t):
 def headline(t):
     """One recent headline for context (best effort)."""
     try:
-        items = yf.Ticker(t).news or []
+        items = yf.Ticker(market.base_symbol(t)).news or []
     except Exception:
         return None
     now = datetime.datetime.now(datetime.timezone.utc)
@@ -142,8 +143,9 @@ def build_message(alerts):
     for a in alerts:
         icon = "🟢" if a["chg"] > 0 else "🔴"
         word = "up" if a["chg"] > 0 else "down"
-        lines = [f"{icon} {a['ticker']} {word} {abs(a['chg']):.1f}% on the day",
-                 f"  Price {a['price']:,.2f} (previous close {a['prev']:,.2f})"]
+        lines = [f"{icon} {market.display(a['ticker'])} {word} {abs(a['chg']):.1f}% on the day",
+                 f"  Price {market.money(a['price'], a['ticker'])} "
+                 f"(previous close {market.money(a['prev'], a['ticker'])})"]
         h = headline(a["ticker"])
         if h:
             lines.append(f"  📰 {h}")
