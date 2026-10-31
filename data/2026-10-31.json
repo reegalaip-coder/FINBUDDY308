@@ -1,0 +1,193 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 28384.85,
+      "change_pct": -3.46,
+      "flags": [
+        "Down 3.5% on the day"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 35.0,
+      "news": []
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 59.67,
+      "change_pct": -1.92,
+      "flags": [],
+      "volume_x": 1.4,
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 8908.1,
+      "change_pct": 0.18,
+      "flags": [
+        "50-day average crossed below the 200-day (death cross)"
+      ],
+      "range_pos_pct": 60.0,
+      "vs_200d": "above",
+      "rsi": 61.0,
+      "news": []
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5214.7,
+      "change_pct": 0.29,
+      "flags": [],
+      "range_pos_pct": 78.0,
+      "vs_200d": "above",
+      "rsi": 63.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 35.05,
+      "change_pct": 0.23,
+      "flags": [
+        "Volume 3.3x the 20-day average"
+      ],
+      "volume_x": 3.3,
+      "range_pos_pct": 86.0,
+      "vs_200d": "above",
+      "rsi": 64.0,
+      "news": []
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 148.76,
+      "change_pct": 0.27,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 76.0,
+      "vs_200d": "above",
+      "rsi": 62.0
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 166.72,
+      "change_pct": 0.2,
+      "flags": [
+        "RSI 70 (overbought zone)"
+      ],
+      "volume_x": 1.4,
+      "range_pos_pct": 63.0,
+      "vs_200d": "above",
+      "rsi": 70.0,
+      "news": []
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 57.56,
+      "change_pct": 0.07,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 68.0,
+      "vs_200d": "above",
+      "rsi": 43.0
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 14.27,
+      "change_pct": -2.19,
+      "flags": [
+        "New 52-week low",
+        "RSI 30 (oversold zone)"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 30.0,
+      "news": []
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 41.51,
+      "change_pct": 0.36,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 47.0,
+      "vs_200d": "above",
+      "rsi": 63.0
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 76.69,
+      "change_pct": 3.61,
+      "flags": [
+        "Up 3.6% on the day"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 30.0,
+      "vs_200d": "below",
+      "rsi": 48.0,
+      "news": []
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 40.81,
+      "change_pct": 0.22,
+      "flags": [
+        "New 52-week high",
+        "RSI 72 (overbought zone)"
+      ],
+      "volume_x": 1.2,
+      "range_pos_pct": 100.0,
+      "vs_200d": "above",
+      "rsi": 72.0,
+      "news": []
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 25.41,
+      "change_pct": 0.04,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 44.0
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 77431.98,
+      "change_pct": 0.3,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 67.0,
+      "vs_200d": "above",
+      "rsi": 36.0
+    },
+    {
+      "ticker": "GOLD-INR",
+      "price": 119275.95,
+      "change_pct": -3.34,
+      "flags": [
+        "Down 3.3% on the day",
+        "RSI 29 (oversold zone)"
+      ],
+      "range_pos_pct": 14.0,
+      "vs_200d": "below",
+      "rsi": 29.0,
+      "news": []
+    },
+    {
+      "ticker": "SILVER-INR",
+      "price": 150198.55,
+      "change_pct": -5.98,
+      "flags": [
+        "Down 6.0% on the day",
+        "RSI 23 (oversold zone)"
+      ],
+      "range_pos_pct": 8.0,
+      "vs_200d": "below",
+      "rsi": 23.0,
+      "news": []
+    }
+  ],
+  "failed": [],
+  "summary": "Precious metals and indices posted notable moves today. Silver fell 5.98% to an oversold RSI of 23, while Gold dropped 3.34% to an oversold RSI of 29. The Nasdaq-100 (^NDX) also declined 3.46%. The ^AXJO edged up 0.18%, though its 50-day average crossed below its 200-day average in a death cross.\n\nIn Australian equities, WES.AX advanced 3.61%. Financials reached overbought levels, with ANZ.AX rising 0.22% to a new 52-week high (RSI 72) and CBA.AX posting an RSI of 70 (+0.20%). Conversely, FMG.AX fell 2.19% to a new 52-week low, entering oversold territory with an RSI of 30. Additionally, ILC.AX rose 0.23% alongside elevated trading activity, with volume reaching 3.3 times its 20-day average."
+}
