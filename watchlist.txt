@@ -17,9 +17,23 @@
 
 ^NDX     # Nasdaq 100 index
 NDQ.AX
+NQ=F      # Nasdaq 100 E-mini futures
+YM=F      # Dow Jones (US30) E-mini futures
+ES=F      # S&P 500 E-mini futures
+RTY=F     # Russell 2000 E-mini futures
 ^AXJO    # ASX 200 index
 ^ATLI     # S&P/ASX 20 index (unconfirmed code)
 ILC.AX    # iShares S&P/ASX 20 ETF, tracks the same index
+^NSEI          # Nifty 50
+^NSEBANK       # Nifty Bank
+^NSMIDCP       # Nifty Next 50
+NIFTYMIDCAP150.NS       # Nifty Midcap 150
+NIFTYSMLCAP250.NS       # Nifty Smallcap 250
+^BSESN         # BSE Sensex
+^CNXIT         # Nifty IT
+
+
+
 A200.AX
 CBA.AX
 BHP.AX
@@ -29,7 +43,5 @@ WES.AX
 ANZ.AX
 GYG.AX
 BTC-USD
-^AXJO
-^NDX
 GOLD-INR
 SILVER-INR
