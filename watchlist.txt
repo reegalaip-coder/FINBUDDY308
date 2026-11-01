@@ -31,9 +31,6 @@ NIFTYMIDCAP150.NS       # Nifty Midcap 150
 NIFTYSMLCAP250.NS       # Nifty Smallcap 250
 ^BSESN         # BSE Sensex
 ^CNXIT         # Nifty IT
-
-
-
 A200.AX
 CBA.AX
 BHP.AX
@@ -43,5 +40,8 @@ WES.AX
 ANZ.AX
 GYG.AX
 BTC-USD
-GOLD-INR
-SILVER-INR
+ETH-USD
+SOL-USD
+XRP-USD
+GC=F
+SI=F
