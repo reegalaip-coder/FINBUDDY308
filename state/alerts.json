@@ -3,15 +3,31 @@
     "bar_date": "2026-10-30",
     "level": -1
   },
+  "GC=F": {
+    "bar_date": "2026-10-30",
+    "level": -1
+  },
   "GOLD-INR": {
     "bar_date": "2026-10-30",
     "level": -1
+  },
+  "NQ=F": {
+    "bar_date": "2026-10-30",
+    "level": -1
+  },
+  "SI=F": {
+    "bar_date": "2026-10-30",
+    "level": -2
   },
   "SILVER-INR": {
     "bar_date": "2026-10-30",
     "level": -3
   },
   "WES.AX": {
+    "bar_date": "2026-10-30",
+    "level": 1
+  },
+  "^CNXIT": {
     "bar_date": "2026-10-30",
     "level": 1
   },
