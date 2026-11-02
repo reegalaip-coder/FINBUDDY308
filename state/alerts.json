@@ -1,4 +1,8 @@
 {
+  "ETH-USD": {
+    "bar_date": "2026-11-02",
+    "level": 1
+  },
   "FMG.AX": {
     "bar_date": "2026-10-30",
     "level": -1
