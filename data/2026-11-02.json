@@ -1,0 +1,330 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 27984.65,
+      "change_pct": -1.41,
+      "flags": [],
+      "volume_x": 0.1,
+      "range_pos_pct": 61.0,
+      "vs_200d": "above",
+      "rsi": 32.0
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 59.29,
+      "change_pct": -0.64,
+      "flags": [
+        "Volume 2.4x the 20-day average"
+      ],
+      "volume_x": 2.4,
+      "range_pos_pct": 64.0,
+      "vs_200d": "above",
+      "rsi": 35.0,
+      "news": []
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 28231.0,
+      "change_pct": -1.06,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 61.0,
+      "vs_200d": "above",
+      "rsi": 33.0
+    },
+    {
+      "ticker": "YM=F",
+      "price": 52226.0,
+      "change_pct": 0.59,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 75.0,
+      "vs_200d": "above",
+      "rsi": 49.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7591.25,
+      "change_pct": -0.3,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 81.0,
+      "vs_200d": "above",
+      "rsi": 38.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2826.0,
+      "change_pct": 0.17,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 67.0,
+      "vs_200d": "above",
+      "rsi": 50.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 8856.5,
+      "change_pct": -0.58,
+      "flags": [],
+      "range_pos_pct": 54.0,
+      "vs_200d": "above",
+      "rsi": 55.0
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5179.4,
+      "change_pct": -0.68,
+      "flags": [],
+      "range_pos_pct": 73.0,
+      "vs_200d": "above",
+      "rsi": 57.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 34.84,
+      "change_pct": -0.6,
+      "flags": [],
+      "volume_x": 1.4,
+      "range_pos_pct": 83.0,
+      "vs_200d": "above",
+      "rsi": 58.0
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 23053.1,
+      "change_pct": 0.51,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 20.0,
+      "vs_200d": "below",
+      "rsi": 53.0
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 54686.95,
+      "change_pct": -0.41,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 39.0,
+      "vs_200d": "below",
+      "rsi": 45.0
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 67709.1,
+      "change_pct": -0.61,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 51.0,
+      "vs_200d": "below",
+      "rsi": 43.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 21047.5,
+      "change_pct": -0.93,
+      "flags": [],
+      "range_pos_pct": 39.0,
+      "vs_200d": "below",
+      "rsi": 38.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 16764.55,
+      "change_pct": -1.97,
+      "flags": [
+        "Closed below its 200-day average"
+      ],
+      "range_pos_pct": 59.0,
+      "vs_200d": "below",
+      "rsi": 37.0,
+      "news": []
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 74459.53,
+      "change_pct": 0.42,
+      "flags": [],
+      "volume_x": 0.3,
+      "range_pos_pct": 20.0,
+      "vs_200d": "below",
+      "rsi": 55.0
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 32606.9,
+      "change_pct": 2.32,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 50.0,
+      "vs_200d": "above",
+      "rsi": 68.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 147.89,
+      "change_pct": -0.58,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 56.0
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 165.05,
+      "change_pct": -1.0,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 59.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 56.74,
+      "change_pct": -1.42,
+      "flags": [
+        "Closed below its 200-day average"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 65.0,
+      "vs_200d": "below",
+      "rsi": 40.0,
+      "news": []
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 14.27,
+      "change_pct": 0.0,
+      "flags": [
+        "New 52-week low",
+        "RSI 30 (oversold zone)"
+      ],
+      "volume_x": 0.5,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 30.0,
+      "news": []
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 40.91,
+      "change_pct": -1.45,
+      "flags": [
+        "Earnings in 2 day(s) (2026-11-04)"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 42.0,
+      "vs_200d": "above",
+      "rsi": 58.0,
+      "news": []
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 77.12,
+      "change_pct": 0.56,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 32.0,
+      "vs_200d": "below",
+      "rsi": 49.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 40.56,
+      "change_pct": -0.61,
+      "flags": [
+        "Within 1% of its 52-week high"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 97.0,
+      "vs_200d": "above",
+      "rsi": 68.0,
+      "news": []
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 25.89,
+      "change_pct": 1.89,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 75.0,
+      "vs_200d": "above",
+      "rsi": 49.0
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 76753.78,
+      "change_pct": -1.91,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 65.0,
+      "vs_200d": "above",
+      "rsi": 35.0
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 2243.66,
+      "change_pct": -1.29,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 56.0,
+      "vs_200d": "above",
+      "rsi": 33.0
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 91.08,
+      "change_pct": -3.57,
+      "flags": [
+        "Down 3.6% on the day",
+        "RSI 25 (oversold zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 48.0,
+      "vs_200d": "above",
+      "rsi": 25.0,
+      "news": []
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 1.25,
+      "change_pct": -0.22,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 44.0,
+      "vs_200d": "below",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "GC=F",
+      "price": 3950.4,
+      "change_pct": 1.32,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 4.0,
+      "vs_200d": "below",
+      "rsi": 34.0
+    },
+    {
+      "ticker": "SI=F",
+      "price": 50.61,
+      "change_pct": 3.08,
+      "flags": [
+        "Up 3.1% on the day",
+        "Volume 598.2x the 20-day average",
+        "RSI 30 (oversold zone)"
+      ],
+      "volume_x": 598.2,
+      "range_pos_pct": 5.0,
+      "vs_200d": "below",
+      "rsi": 30.0,
+      "news": []
+    }
+  ],
+  "failed": [],
+  "summary": "Here are today\u2019s notable market movements based on the latest technical and volume data:\n\n* **Extreme Volume & Rebounds:** Silver futures (**SI=F**) rose 3.08% to 50.61, backed by volume reaching 598.2 times its 20-day average, with an RSI of 30 (oversold zone). \n* **Oversold Drops & Lows:** **SOL-USD** fell 3.57% to 91.08, sliding into oversold territory with an RSI of 25. Meanwhile, **FMG.AX** hit a new 52-week low at 14.27, also registering an oversold RSI of 30.\n* **Moving Average Breaks:** Both **BHP.AX** (-1.42% at 56.74) and India\u2019s **NIFTYSMLCAP250.NS** (-1.97% at 16,764.55) closed below their 200-day averages.\n* **Upcoming Events & Highs:** **NAB.AX** fell 1.45% ahead of earnings in two days, while **ANZ.AX** sits within 1% of its 52-week high despite a 0.61% decline."
+}
