@@ -1,4 +1,8 @@
 {
+  "BTC-USD": {
+    "bar_date": "2026-11-02",
+    "level": -1
+  },
   "ETH-USD": {
     "bar_date": "2026-11-02",
     "level": 1
