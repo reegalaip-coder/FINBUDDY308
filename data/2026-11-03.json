@@ -1,0 +1,336 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 28185.92,
+      "change_pct": 0.7,
+      "flags": [],
+      "volume_x": 0.1,
+      "range_pos_pct": 63.0,
+      "vs_200d": "above",
+      "rsi": 35.0
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 58.31,
+      "change_pct": -1.65,
+      "flags": [
+        "Volume 2.2x the 20-day average"
+      ],
+      "volume_x": 2.2,
+      "range_pos_pct": 58.0,
+      "vs_200d": "above",
+      "rsi": 31.0,
+      "news": []
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 28311.75,
+      "change_pct": 0.66,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 62.0,
+      "vs_200d": "above",
+      "rsi": 34.0
+    },
+    {
+      "ticker": "YM=F",
+      "price": 51869.0,
+      "change_pct": -0.51,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 44.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7596.5,
+      "change_pct": 0.29,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 81.0,
+      "vs_200d": "above",
+      "rsi": 40.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2829.2,
+      "change_pct": 0.4,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 68.0,
+      "vs_200d": "above",
+      "rsi": 51.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 8886.8,
+      "change_pct": 0.34,
+      "flags": [],
+      "range_pos_pct": 58.0,
+      "vs_200d": "above",
+      "rsi": 58.0
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5189.8,
+      "change_pct": 0.2,
+      "flags": [],
+      "range_pos_pct": 74.0,
+      "vs_200d": "above",
+      "rsi": 58.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 34.9,
+      "change_pct": 0.17,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 84.0,
+      "vs_200d": "above",
+      "rsi": 60.0
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 23440.8,
+      "change_pct": 1.68,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 30.0,
+      "vs_200d": "below",
+      "rsi": 61.0
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 55002.2,
+      "change_pct": 0.58,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 42.0,
+      "vs_200d": "below",
+      "rsi": 48.0
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 68962.65,
+      "change_pct": 1.85,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 60.0,
+      "vs_200d": "below",
+      "rsi": 51.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 21310.75,
+      "change_pct": 1.25,
+      "flags": [],
+      "range_pos_pct": 46.0,
+      "vs_200d": "below",
+      "rsi": 44.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 16991.0,
+      "change_pct": 1.35,
+      "flags": [
+        "Closed above its 200-day average"
+      ],
+      "range_pos_pct": 64.0,
+      "vs_200d": "above",
+      "rsi": 42.0,
+      "news": []
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 75692.78,
+      "change_pct": 1.66,
+      "flags": [],
+      "volume_x": 0.4,
+      "range_pos_pct": 29.0,
+      "vs_200d": "below",
+      "rsi": 62.0
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 32442.5,
+      "change_pct": -0.5,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 49.0,
+      "vs_200d": "above",
+      "rsi": 66.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 148.25,
+      "change_pct": 0.24,
+      "flags": [],
+      "volume_x": 0.4,
+      "range_pos_pct": 73.0,
+      "vs_200d": "above",
+      "rsi": 58.0
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 167.23,
+      "change_pct": 1.32,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 65.0,
+      "vs_200d": "above",
+      "rsi": 68.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 56.42,
+      "change_pct": -0.56,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 64.0,
+      "vs_200d": "below",
+      "rsi": 39.0
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 14.4,
+      "change_pct": 0.91,
+      "flags": [
+        "Within 1% of its 52-week low"
+      ],
+      "volume_x": 0.6,
+      "range_pos_pct": 2.0,
+      "vs_200d": "below",
+      "rsi": 33.0,
+      "news": []
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 40.97,
+      "change_pct": 0.15,
+      "flags": [
+        "Earnings in 1 day(s) (2026-11-04)"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 43.0,
+      "vs_200d": "above",
+      "rsi": 58.0,
+      "news": []
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 78.46,
+      "change_pct": 1.74,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 39.0,
+      "vs_200d": "below",
+      "rsi": 53.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 40.34,
+      "change_pct": -0.54,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 94.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 25.66,
+      "change_pct": -0.89,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 73.0,
+      "vs_200d": "above",
+      "rsi": 47.0
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 77728.01,
+      "change_pct": 1.37,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 68.0,
+      "vs_200d": "above",
+      "rsi": 40.0
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 2286.45,
+      "change_pct": 1.67,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 60.0,
+      "vs_200d": "above",
+      "rsi": 39.0
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 93.39,
+      "change_pct": 1.69,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 52.0,
+      "vs_200d": "above",
+      "rsi": 31.0
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 1.28,
+      "change_pct": 2.34,
+      "flags": [
+        "Closed above its 200-day average"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 49.0,
+      "vs_200d": "above",
+      "rsi": 43.0,
+      "news": [
+        "XRP Has Moved Just 2.4% Since Saturday, Its Tightest Range Since August\u2019s 71% Breakout: Which Way Will the Squeeze Break?",
+        "Why Is Crypto Down? Altcoins Lose Up to 25% in a Month as Americans Vote, and One Trader\u2019s Midterm Chart Points to Another Leg Lower",
+        "XRP Bulls Predict $30 as Nearly 8,000 New Wallets Raises Binance Hack Adoption Questions"
+      ]
+    },
+    {
+      "ticker": "GC=F",
+      "price": 3931.5,
+      "change_pct": -0.96,
+      "flags": [
+        "Within 1% of its 52-week low"
+      ],
+      "volume_x": 1.0,
+      "range_pos_pct": 2.0,
+      "vs_200d": "below",
+      "rsi": 34.0,
+      "news": [
+        "Tongguan Gold Group (SEHK:340) Stock Trades At A Premium After A 383% Three Year Run",
+        "3 Australian Penny Stocks With Revenue Up To A$3b",
+        "BC-Gold-Silver"
+      ]
+    },
+    {
+      "ticker": "SI=F",
+      "price": 49.6,
+      "change_pct": -2.21,
+      "flags": [
+        "Volume 524.0x the 20-day average",
+        "RSI 28 (oversold zone)"
+      ],
+      "volume_x": 524.0,
+      "range_pos_pct": 4.0,
+      "vs_200d": "below",
+      "rsi": 28.0,
+      "news": [
+        "Gold Futures Slip Amid Oil Price Volatility",
+        "Ameriwest advances Oregon copper-gold project with historic core resampling",
+        "Elite Australian Growth Stocks To Own In November 2026"
+      ]
+    }
+  ],
+  "failed": [],
+  "summary": null
+}
