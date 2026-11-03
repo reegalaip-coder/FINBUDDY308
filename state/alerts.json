@@ -43,6 +43,10 @@
     "bar_date": "2026-10-30",
     "level": 1
   },
+  "XRP-USD": {
+    "bar_date": "2026-11-03",
+    "level": 1
+  },
   "^CNXIT": {
     "bar_date": "2026-10-30",
     "level": 1
