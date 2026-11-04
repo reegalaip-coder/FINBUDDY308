@@ -4,12 +4,12 @@
     "level": -1
   },
   "BTC-USD": {
-    "bar_date": "2026-11-03",
-    "level": -1
+    "bar_date": "2026-11-04",
+    "level": 1
   },
   "ETH-USD": {
     "bar_date": "2026-11-04",
-    "level": 1
+    "level": 3
   },
   "FMG.AX": {
     "bar_date": "2026-11-04",
@@ -40,8 +40,8 @@
     "level": -3
   },
   "SOL-USD": {
-    "bar_date": "2026-11-03",
-    "level": -1
+    "bar_date": "2026-11-04",
+    "level": 2
   },
   "WES.AX": {
     "bar_date": "2026-10-30",
