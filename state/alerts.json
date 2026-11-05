@@ -31,6 +31,10 @@
     "bar_date": "2026-11-05",
     "level": 1
   },
+  "ILC.AX": {
+    "bar_date": "2026-11-05",
+    "level": 1
+  },
   "NAB.AX": {
     "bar_date": "2026-11-05",
     "level": -3
@@ -68,11 +72,15 @@
     "level": 1
   },
   "^CNXIT": {
-    "bar_date": "2026-11-04",
-    "level": -1
+    "bar_date": "2026-11-05",
+    "level": 1
   },
   "^NDX": {
     "bar_date": "2026-10-30",
     "level": -2
+  },
+  "^NSEBANK": {
+    "bar_date": "2026-11-05",
+    "level": 1
   }
 }
