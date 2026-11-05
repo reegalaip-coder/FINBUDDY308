@@ -13,7 +13,7 @@
   },
   "ES=F": {
     "bar_date": "2026-11-05",
-    "level": -1
+    "level": -2
   },
   "ETH-USD": {
     "bar_date": "2026-11-05",
@@ -93,7 +93,7 @@
   },
   "^NDX": {
     "bar_date": "2026-11-05",
-    "level": -2
+    "level": -3
   },
   "^NSEBANK": {
     "bar_date": "2026-11-05",
