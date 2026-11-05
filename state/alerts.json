@@ -71,6 +71,10 @@
     "bar_date": "2026-11-05",
     "level": 1
   },
+  "^BSESN": {
+    "bar_date": "2026-11-05",
+    "level": 1
+  },
   "^CNXIT": {
     "bar_date": "2026-11-05",
     "level": 1
