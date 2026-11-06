@@ -9,7 +9,7 @@
   },
   "BTC-USD": {
     "bar_date": "2026-11-06",
-    "level": -2
+    "level": -3
   },
   "ES=F": {
     "bar_date": "2026-11-05",
@@ -17,7 +17,7 @@
   },
   "ETH-USD": {
     "bar_date": "2026-11-06",
-    "level": -3
+    "level": -4
   },
   "FMG.AX": {
     "bar_date": "2026-11-06",
@@ -77,7 +77,7 @@
   },
   "XRP-USD": {
     "bar_date": "2026-11-06",
-    "level": -3
+    "level": -4
   },
   "YM=F": {
     "bar_date": "2026-11-05",
