@@ -1,0 +1,328 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 26989.99,
+      "change_pct": 1.35,
+      "flags": [],
+      "volume_x": 1.3,
+      "range_pos_pct": 49.0,
+      "vs_200d": "below",
+      "rsi": 31.0
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 56.7,
+      "change_pct": -2.74,
+      "flags": [
+        "Volume 3.0x the 20-day average",
+        "Closed below its 200-day average",
+        "RSI 26 (oversold zone)"
+      ],
+      "volume_x": 3.0,
+      "range_pos_pct": 48.0,
+      "vs_200d": "below",
+      "rsi": 26.0,
+      "news": []
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 27085.25,
+      "change_pct": 1.25,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 47.0,
+      "vs_200d": "below",
+      "rsi": 31.0
+    },
+    {
+      "ticker": "YM=F",
+      "price": 51385.0,
+      "change_pct": -0.45,
+      "flags": [],
+      "volume_x": 1.3,
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 43.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7402.0,
+      "change_pct": 0.26,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 68.0,
+      "vs_200d": "above",
+      "rsi": 35.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2760.5,
+      "change_pct": 0.92,
+      "flags": [],
+      "volume_x": 1.2,
+      "range_pos_pct": 59.0,
+      "vs_200d": "below",
+      "rsi": 42.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 9020.8,
+      "change_pct": -0.49,
+      "flags": [],
+      "range_pos_pct": 72.0,
+      "vs_200d": "above",
+      "rsi": 63.0
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5249.5,
+      "change_pct": -0.16,
+      "flags": [],
+      "range_pos_pct": 82.0,
+      "vs_200d": "above",
+      "rsi": 63.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 35.28,
+      "change_pct": -0.25,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 90.0,
+      "vs_200d": "above",
+      "rsi": 63.0
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 24986.4,
+      "change_pct": -0.18,
+      "flags": [
+        "RSI 77 (overbought zone)"
+      ],
+      "range_pos_pct": 67.0,
+      "vs_200d": "above",
+      "rsi": 77.0,
+      "news": [
+        "AI stock selloff drives investors to China, India, and overlooked Asian sectors"
+      ]
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 58850.65,
+      "change_pct": -0.4,
+      "flags": [
+        "RSI 72 (overbought zone)"
+      ],
+      "range_pos_pct": 76.0,
+      "vs_200d": "above",
+      "rsi": 72.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 71991.7,
+      "change_pct": 0.47,
+      "flags": [],
+      "range_pos_pct": 81.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 22327.85,
+      "change_pct": 0.25,
+      "flags": [],
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 62.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 17594.1,
+      "change_pct": 1.2,
+      "flags": [],
+      "range_pos_pct": 78.0,
+      "vs_200d": "above",
+      "rsi": 54.0
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 80999.4,
+      "change_pct": -0.04,
+      "flags": [
+        "RSI 79 (overbought zone)"
+      ],
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 79.0,
+      "news": []
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 32869.65,
+      "change_pct": -0.33,
+      "flags": [],
+      "range_pos_pct": 52.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 150.61,
+      "change_pct": -0.59,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 87.0,
+      "vs_200d": "above",
+      "rsi": 64.0
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 167.51,
+      "change_pct": 0.73,
+      "flags": [],
+      "volume_x": 1.2,
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 67.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 57.62,
+      "change_pct": -2.34,
+      "flags": [],
+      "volume_x": 1.3,
+      "range_pos_pct": 69.0,
+      "vs_200d": "above",
+      "rsi": 46.0
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 15.18,
+      "change_pct": -2.0,
+      "flags": [],
+      "volume_x": 1.4,
+      "range_pos_pct": 12.0,
+      "vs_200d": "below",
+      "rsi": 50.0
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 40.0,
+      "change_pct": 2.67,
+      "flags": [],
+      "volume_x": 2.0,
+      "range_pos_pct": 35.0,
+      "vs_200d": "below",
+      "rsi": 51.0
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 81.33,
+      "change_pct": -0.26,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 52.0,
+      "vs_200d": "above",
+      "rsi": 61.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 40.34,
+      "change_pct": 0.6,
+      "flags": [
+        "Earnings today"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 94.0,
+      "vs_200d": "above",
+      "rsi": 63.0,
+      "news": []
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 26.12,
+      "change_pct": -1.02,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 76.0,
+      "vs_200d": "above",
+      "rsi": 52.0
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 75803.99,
+      "change_pct": 0.07,
+      "flags": [],
+      "volume_x": 0.3,
+      "range_pos_pct": 61.0,
+      "vs_200d": "above",
+      "rsi": 38.0
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 2227.98,
+      "change_pct": -0.37,
+      "flags": [],
+      "volume_x": 0.3,
+      "range_pos_pct": 55.0,
+      "vs_200d": "above",
+      "rsi": 39.0
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 89.47,
+      "change_pct": -0.22,
+      "flags": [
+        "RSI 30 (oversold zone)"
+      ],
+      "volume_x": 0.4,
+      "range_pos_pct": 46.0,
+      "vs_200d": "above",
+      "rsi": 30.0,
+      "news": [
+        "In 5 Years, One of These Cryptocurrencies Could Be Worth More Than Bitcoin"
+      ]
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 1.15,
+      "change_pct": -0.85,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 28.0,
+      "vs_200d": "below",
+      "rsi": 31.0
+    },
+    {
+      "ticker": "GC=F",
+      "price": 4074.9,
+      "change_pct": -0.94,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 12.0,
+      "vs_200d": "below",
+      "rsi": 47.0
+    },
+    {
+      "ticker": "SI=F",
+      "price": 51.94,
+      "change_pct": -0.56,
+      "flags": [
+        "Volume 676.5x the 20-day average"
+      ],
+      "volume_x": 676.5,
+      "range_pos_pct": 4.0,
+      "vs_200d": "below",
+      "rsi": 38.0,
+      "news": [
+        "Goldman Sachs revamps 2027 gold price target, but signals rebound",
+        "What Avino Silver & Gold Mines (ASM) Said on Its Q3 Earnings Call",
+        "Pan American Silver Q3 Earnings Call Highlights"
+      ]
+    }
+  ],
+  "failed": [],
+  "summary": null
+}
