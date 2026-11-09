@@ -3,6 +3,10 @@
     "bar_date": "2026-11-05",
     "level": 1
   },
+  "ANZ.AX": {
+    "bar_date": "2026-11-09",
+    "level": -1
+  },
   "BHP.AX": {
     "bar_date": "2026-11-06",
     "level": -2
@@ -16,7 +20,7 @@
     "level": -2
   },
   "ETH-USD": {
-    "bar_date": "2026-11-08",
+    "bar_date": "2026-11-09",
     "level": -2
   },
   "FMG.AX": {
@@ -56,19 +60,19 @@
     "level": -2
   },
   "SI=F": {
-    "bar_date": "2026-11-04",
-    "level": 3
+    "bar_date": "2026-11-08",
+    "level": 1
   },
   "SOL-USD": {
-    "bar_date": "2026-11-08",
-    "level": -2
+    "bar_date": "2026-11-09",
+    "level": -1
   },
   "WES.AX": {
     "bar_date": "2026-11-05",
     "level": 2
   },
   "XRP-USD": {
-    "bar_date": "2026-11-08",
+    "bar_date": "2026-11-09",
     "level": -2
   },
   "YM=F": {
