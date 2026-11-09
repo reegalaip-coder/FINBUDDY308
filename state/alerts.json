@@ -5,11 +5,11 @@
   },
   "ANZ.AX": {
     "bar_date": "2026-11-09",
-    "level": -1
+    "level": -2
   },
   "BHP.AX": {
-    "bar_date": "2026-11-06",
-    "level": -2
+    "bar_date": "2026-11-09",
+    "level": 1
   },
   "BTC-USD": {
     "bar_date": "2026-11-08",
