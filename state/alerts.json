@@ -12,7 +12,7 @@
     "level": 1
   },
   "BTC-USD": {
-    "bar_date": "2026-11-08",
+    "bar_date": "2026-11-10",
     "level": -1
   },
   "CBA.AX": {
@@ -25,7 +25,7 @@
   },
   "ETH-USD": {
     "bar_date": "2026-11-10",
-    "level": -1
+    "level": -2
   },
   "FMG.AX": {
     "bar_date": "2026-11-06",
@@ -64,12 +64,12 @@
     "level": 1
   },
   "SI=F": {
-    "bar_date": "2026-11-09",
-    "level": 1
+    "bar_date": "2026-11-10",
+    "level": -1
   },
   "SOL-USD": {
     "bar_date": "2026-11-10",
-    "level": -1
+    "level": -2
   },
   "WES.AX": {
     "bar_date": "2026-11-05",
@@ -77,7 +77,7 @@
   },
   "XRP-USD": {
     "bar_date": "2026-11-10",
-    "level": -1
+    "level": -2
   },
   "YM=F": {
     "bar_date": "2026-11-09",
