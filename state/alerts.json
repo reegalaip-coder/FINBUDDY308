@@ -15,6 +15,10 @@
     "bar_date": "2026-11-08",
     "level": -1
   },
+  "CBA.AX": {
+    "bar_date": "2026-11-10",
+    "level": 1
+  },
   "ES=F": {
     "bar_date": "2026-11-09",
     "level": 1
@@ -40,7 +44,7 @@
     "level": 1
   },
   "NAB.AX": {
-    "bar_date": "2026-11-06",
+    "bar_date": "2026-11-10",
     "level": 1
   },
   "NDQ.AX": {
