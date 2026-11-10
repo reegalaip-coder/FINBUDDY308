@@ -24,8 +24,8 @@
     "level": 1
   },
   "ETH-USD": {
-    "bar_date": "2026-11-09",
-    "level": -2
+    "bar_date": "2026-11-10",
+    "level": -1
   },
   "FMG.AX": {
     "bar_date": "2026-11-06",
@@ -68,7 +68,7 @@
     "level": 1
   },
   "SOL-USD": {
-    "bar_date": "2026-11-09",
+    "bar_date": "2026-11-10",
     "level": -1
   },
   "WES.AX": {
