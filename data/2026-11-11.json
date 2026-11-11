@@ -1,0 +1,358 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 28374.25,
+      "change_pct": 2.28,
+      "flags": [
+        "Closed above its 200-day average"
+      ],
+      "volume_x": 0.2,
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 46.0,
+      "news": [
+        "AI Trade bounces back, Kalshi possibly facing charges, OpenAI continues to see heavy losses",
+        "Tech, Media & Telecom Roundup: Market Talk",
+        "Stocks Climb as AI Demand Worries Ease on CoreWeave Earnings"
+      ]
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 59.41,
+      "change_pct": 1.5,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 64.0,
+      "vs_200d": "above",
+      "rsi": 46.0
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 28463.25,
+      "change_pct": 2.26,
+      "flags": [
+        "Closed above its 200-day average"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 64.0,
+      "vs_200d": "above",
+      "rsi": 45.0,
+      "news": []
+    },
+    {
+      "ticker": "YM=F",
+      "price": 52605.0,
+      "change_pct": 0.55,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 79.0,
+      "vs_200d": "above",
+      "rsi": 53.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7645.0,
+      "change_pct": 1.34,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 85.0,
+      "vs_200d": "above",
+      "rsi": 49.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2853.9,
+      "change_pct": 0.88,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 54.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 9153.2,
+      "change_pct": 0.27,
+      "flags": [
+        "RSI 70 (overbought zone)"
+      ],
+      "range_pos_pct": 87.0,
+      "vs_200d": "above",
+      "rsi": 70.0,
+      "news": []
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5292.8,
+      "change_pct": 0.07,
+      "flags": [],
+      "range_pos_pct": 88.0,
+      "vs_200d": "above",
+      "rsi": 67.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 35.68,
+      "change_pct": -0.28,
+      "flags": [
+        "Within 1% of its 52-week high"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 97.0,
+      "vs_200d": "above",
+      "rsi": 67.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 25044.65,
+      "change_pct": 0.06,
+      "flags": [
+        "RSI 79 (overbought zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 69.0,
+      "vs_200d": "above",
+      "rsi": 79.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 59741.25,
+      "change_pct": 1.11,
+      "flags": [
+        "RSI 77 (overbought zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 84.0,
+      "vs_200d": "above",
+      "rsi": 77.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 72789.45,
+      "change_pct": 1.58,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 86.0,
+      "vs_200d": "above",
+      "rsi": 68.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 22408.55,
+      "change_pct": 0.62,
+      "flags": [],
+      "range_pos_pct": 72.0,
+      "vs_200d": "above",
+      "rsi": 63.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 17577.0,
+      "change_pct": 1.1,
+      "flags": [],
+      "range_pos_pct": 78.0,
+      "vs_200d": "above",
+      "rsi": 54.0
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 81106.65,
+      "change_pct": 0.1,
+      "flags": [
+        "RSI 80 (overbought zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 67.0,
+      "vs_200d": "above",
+      "rsi": 80.0,
+      "news": [
+        "Here's Where Investors Turned To As They Fled AI Stocks"
+      ]
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 32468.95,
+      "change_pct": -1.54,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 49.0,
+      "vs_200d": "above",
+      "rsi": 61.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 153.19,
+      "change_pct": 0.29,
+      "flags": [
+        "Volume 4.1x the 20-day average",
+        "New 52-week high",
+        "RSI 71 (overbought zone)"
+      ],
+      "volume_x": 4.1,
+      "range_pos_pct": 100.0,
+      "vs_200d": "above",
+      "rsi": 71.0,
+      "news": []
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 166.94,
+      "change_pct": -1.21,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 64.0,
+      "vs_200d": "above",
+      "rsi": 61.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 60.39,
+      "change_pct": 0.87,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 79.0,
+      "vs_200d": "above",
+      "rsi": 55.0
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 15.42,
+      "change_pct": 0.39,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 15.0,
+      "vs_200d": "below",
+      "rsi": 54.0
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 38.56,
+      "change_pct": -1.51,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 30.0,
+      "vs_200d": "below",
+      "rsi": 47.0
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 81.14,
+      "change_pct": 0.77,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 51.0,
+      "vs_200d": "above",
+      "rsi": 60.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 39.15,
+      "change_pct": 1.37,
+      "flags": [],
+      "volume_x": 1.3,
+      "range_pos_pct": 89.0,
+      "vs_200d": "above",
+      "rsi": 56.0
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 27.4,
+      "change_pct": 3.09,
+      "flags": [
+        "Up 3.1% on the day"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 85.0,
+      "vs_200d": "above",
+      "rsi": 63.0,
+      "news": []
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 74639.0,
+      "change_pct": 1.25,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 57.0,
+      "vs_200d": "above",
+      "rsi": 38.0
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 2078.86,
+      "change_pct": 1.4,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 42.0,
+      "vs_200d": "below",
+      "rsi": 33.0
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 84.95,
+      "change_pct": 2.03,
+      "flags": [
+        "RSI 29 (oversold zone)"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 38.0,
+      "vs_200d": "below",
+      "rsi": 29.0,
+      "news": [
+        "Visa adds Monad to stablecoin settlement options",
+        "Kraken Parent Expands Beyond US Names With Over 200 UK and EU Stocks",
+        "Can Visa's Monad Integration Boost Its Stablecoin Strategy?"
+      ]
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 1.07,
+      "change_pct": 0.94,
+      "flags": [
+        "RSI 26 (oversold zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 13.0,
+      "vs_200d": "below",
+      "rsi": 26.0,
+      "news": [
+        "Rothschild Investment discloses Bitcoin, XRP exposure",
+        "Ripple veteran reveals why he sold millions in crypto, and what remains",
+        "Affluent U.S. city introduces major ATM ban"
+      ]
+    },
+    {
+      "ticker": "GC=F",
+      "price": 3991.4,
+      "change_pct": -0.96,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 7.0,
+      "vs_200d": "below",
+      "rsi": 42.0
+    },
+    {
+      "ticker": "SI=F",
+      "price": 51.73,
+      "change_pct": 1.23,
+      "flags": [
+        "Volume 664.3x the 20-day average"
+      ],
+      "volume_x": 664.3,
+      "range_pos_pct": 4.0,
+      "vs_200d": "below",
+      "rsi": 39.0,
+      "news": [
+        "Andean Precious Metals Corp (ANPMF) (Q3 2026) Earnings Call Highlights: Record Revenue and ...",
+        "Gold Futures Slip Back Under $4,000 Level",
+        "BrightView Q4 Earnings Call Highlights"
+      ]
+    }
+  ],
+  "failed": [],
+  "summary": null
+}
