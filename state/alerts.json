@@ -1,8 +1,4 @@
 {
-  "A200.AX": {
-    "bar_date": "2026-11-05",
-    "level": 1
-  },
   "ANZ.AX": {
     "bar_date": "2026-11-09",
     "level": -2
@@ -12,8 +8,8 @@
     "level": 1
   },
   "BTC-USD": {
-    "bar_date": "2026-11-12",
-    "level": -1
+    "bar_date": "2026-11-13",
+    "level": -2
   },
   "CBA.AX": {
     "bar_date": "2026-11-12",
@@ -24,7 +20,7 @@
     "level": 1
   },
   "ETH-USD": {
-    "bar_date": "2026-11-12",
+    "bar_date": "2026-11-13",
     "level": -1
   },
   "FMG.AX": {
@@ -39,20 +35,12 @@
     "bar_date": "2026-11-11",
     "level": 2
   },
-  "ILC.AX": {
-    "bar_date": "2026-11-05",
-    "level": 1
-  },
   "NAB.AX": {
     "bar_date": "2026-11-10",
     "level": 1
   },
   "NDQ.AX": {
     "bar_date": "2026-11-10",
-    "level": 1
-  },
-  "NIFTYMIDCAP150.NS": {
-    "bar_date": "2026-11-05",
     "level": 1
   },
   "NQ=F": {
@@ -68,31 +56,19 @@
     "level": -1
   },
   "SOL-USD": {
-    "bar_date": "2026-11-12",
+    "bar_date": "2026-11-13",
     "level": -1
   },
-  "WES.AX": {
-    "bar_date": "2026-11-05",
-    "level": 2
-  },
   "XRP-USD": {
-    "bar_date": "2026-11-12",
+    "bar_date": "2026-11-13",
     "level": -1
   },
   "YM=F": {
     "bar_date": "2026-11-09",
     "level": 1
   },
-  "^AXJO": {
-    "bar_date": "2026-11-05",
-    "level": 1
-  },
   "^BSESN": {
     "bar_date": "2026-11-06",
-    "level": 1
-  },
-  "^CNXIT": {
-    "bar_date": "2026-11-05",
     "level": 1
   },
   "^NDX": {
