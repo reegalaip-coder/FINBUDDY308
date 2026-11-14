@@ -8,8 +8,8 @@
     "level": 1
   },
   "BTC-USD": {
-    "bar_date": "2026-11-13",
-    "level": -3
+    "bar_date": "2026-11-14",
+    "level": -2
   },
   "CBA.AX": {
     "bar_date": "2026-11-12",
@@ -20,8 +20,8 @@
     "level": 1
   },
   "ETH-USD": {
-    "bar_date": "2026-11-13",
-    "level": -3
+    "bar_date": "2026-11-14",
+    "level": -2
   },
   "FMG.AX": {
     "bar_date": "2026-11-12",
@@ -56,19 +56,15 @@
     "level": -1
   },
   "SOL-USD": {
-    "bar_date": "2026-11-13",
-    "level": -3
+    "bar_date": "2026-11-14",
+    "level": -2
   },
   "XRP-USD": {
-    "bar_date": "2026-11-13",
-    "level": -2
+    "bar_date": "2026-11-14",
+    "level": -1
   },
   "YM=F": {
     "bar_date": "2026-11-09",
-    "level": 1
-  },
-  "^BSESN": {
-    "bar_date": "2026-11-06",
     "level": 1
   },
   "^NDX": {
@@ -77,10 +73,6 @@
   },
   "^NSEBANK": {
     "bar_date": "2026-11-11",
-    "level": 1
-  },
-  "^NSEI": {
-    "bar_date": "2026-11-06",
     "level": 1
   }
 }
