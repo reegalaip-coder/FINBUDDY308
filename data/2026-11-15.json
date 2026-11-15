@@ -1,0 +1,373 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 27943.74,
+      "change_pct": -1.22,
+      "flags": [
+        "Closed below its 200-day average"
+      ],
+      "volume_x": 1.0,
+      "range_pos_pct": 60.0,
+      "vs_200d": "below",
+      "rsi": 43.0,
+      "news": [
+        "The bond market just turned on the AI trade \u2014 and chip stocks lost more than $650 billion in two days: Chart of the Day",
+        "ASML Soars 10% in a Week as Chip Stocks Bounce and Musk\u2019s Terafab Eyes a Million Wafers"
+      ]
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 60.39,
+      "change_pct": 1.07,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 52.0
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 28034.75,
+      "change_pct": -1.23,
+      "flags": [
+        "Closed below its 200-day average"
+      ],
+      "volume_x": 1.0,
+      "range_pos_pct": 59.0,
+      "vs_200d": "below",
+      "rsi": 42.0,
+      "news": []
+    },
+    {
+      "ticker": "YM=F",
+      "price": 52418.0,
+      "change_pct": 0.05,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 77.0,
+      "vs_200d": "above",
+      "rsi": 51.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7583.0,
+      "change_pct": -0.42,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 80.0,
+      "vs_200d": "above",
+      "rsi": 46.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2797.5,
+      "change_pct": -0.35,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 64.0,
+      "vs_200d": "below",
+      "rsi": 47.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 9082.2,
+      "change_pct": -0.71,
+      "flags": [],
+      "range_pos_pct": 79.0,
+      "vs_200d": "above",
+      "rsi": 62.0
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5277.3,
+      "change_pct": -0.55,
+      "flags": [],
+      "range_pos_pct": 86.0,
+      "vs_200d": "above",
+      "rsi": 62.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 35.59,
+      "change_pct": -0.7,
+      "flags": [
+        "Within 1% of its 52-week high"
+      ],
+      "volume_x": 0.6,
+      "range_pos_pct": 96.0,
+      "vs_200d": "above",
+      "rsi": 62.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 25144.3,
+      "change_pct": -0.61,
+      "flags": [
+        "RSI 76 (overbought zone)"
+      ],
+      "volume_x": 0.6,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 76.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 61034.1,
+      "change_pct": -0.79,
+      "flags": [
+        "Within 1% of its 52-week high",
+        "RSI 77 (overbought zone)"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 95.0,
+      "vs_200d": "above",
+      "rsi": 77.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 72874.7,
+      "change_pct": -0.83,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 87.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 22681.25,
+      "change_pct": -0.35,
+      "flags": [],
+      "range_pos_pct": 79.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 17940.55,
+      "change_pct": -0.3,
+      "flags": [],
+      "range_pos_pct": 86.0,
+      "vs_200d": "above",
+      "rsi": 60.0
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 81592.45,
+      "change_pct": -0.39,
+      "flags": [
+        "RSI 79 (overbought zone)"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 79.0,
+      "news": []
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 31931.15,
+      "change_pct": -0.72,
+      "flags": [],
+      "volume_x": 0.4,
+      "range_pos_pct": 45.0,
+      "vs_200d": "above",
+      "rsi": 55.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 152.1,
+      "change_pct": -0.65,
+      "flags": [
+        "Within 1% of its 52-week high"
+      ],
+      "volume_x": 0.5,
+      "range_pos_pct": 94.0,
+      "vs_200d": "above",
+      "rsi": 64.0,
+      "news": []
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 170.87,
+      "change_pct": -0.52,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 74.0,
+      "vs_200d": "above",
+      "rsi": 66.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 58.86,
+      "change_pct": -1.26,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 73.0,
+      "vs_200d": "above",
+      "rsi": 50.0
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 14.85,
+      "change_pct": -1.33,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 8.0,
+      "vs_200d": "below",
+      "rsi": 45.0
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 38.86,
+      "change_pct": 0.23,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 33.0,
+      "vs_200d": "below",
+      "rsi": 49.0
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 80.82,
+      "change_pct": -0.26,
+      "flags": [],
+      "volume_x": 0.4,
+      "range_pos_pct": 50.0,
+      "vs_200d": "above",
+      "rsi": 58.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 39.59,
+      "change_pct": -0.03,
+      "flags": [
+        "Within 1% of its 52-week high"
+      ],
+      "volume_x": 0.6,
+      "range_pos_pct": 95.0,
+      "vs_200d": "above",
+      "rsi": 60.0,
+      "news": []
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 27.58,
+      "change_pct": -0.25,
+      "flags": [],
+      "volume_x": 0.4,
+      "range_pos_pct": 86.0,
+      "vs_200d": "above",
+      "rsi": 64.0
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 65003.73,
+      "change_pct": 1.37,
+      "flags": [
+        "RSI 24 (oversold zone)"
+      ],
+      "volume_x": 1.7,
+      "range_pos_pct": 23.0,
+      "vs_200d": "below",
+      "rsi": 24.0,
+      "news": [
+        "Bitcoin's four-year cycle is about to turn bullish \u2014 if history repeats: Chart of the Day",
+        "XRP vs Stellar (XLM): Which Could Double First in 2027?",
+        "Dow Jones Futures Loom For Shaky Market Rally As Bitcoin Dives; Nvidia Earnings, Anthropic IPO Ahead"
+      ]
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 1829.11,
+      "change_pct": 3.39,
+      "flags": [
+        "Up 3.4% on the day",
+        "RSI 26 (oversold zone)"
+      ],
+      "volume_x": 1.6,
+      "range_pos_pct": 22.0,
+      "vs_200d": "below",
+      "rsi": 26.0,
+      "news": [
+        "XRP Hits Its Lowest Price Since 2024: Here\u2019s What It Means for Holders",
+        "Binance Holds the Least Ethereum Since 2021",
+        "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days"
+      ]
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 71.85,
+      "change_pct": 2.38,
+      "flags": [
+        "RSI 20 (oversold zone)"
+      ],
+      "volume_x": 1.8,
+      "range_pos_pct": 16.0,
+      "vs_200d": "below",
+      "rsi": 20.0,
+      "news": [
+        "XRP Hits Its Lowest Price Since 2024: Here\u2019s What It Means for Holders",
+        "What Does SoFi Technologies (SOFI) Polygon Stablecoin Expansion Mean For Users?",
+        "Hyperliquid Whale Who Lost $10 Million Now Bets on Solana"
+      ]
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 0.96,
+      "change_pct": 5.52,
+      "flags": [
+        "Up 5.5% on the day",
+        "RSI 26 (oversold zone)"
+      ],
+      "volume_x": 1.8,
+      "range_pos_pct": 8.0,
+      "vs_200d": "below",
+      "rsi": 26.0,
+      "news": [
+        "XRP vs Stellar (XLM): Which Could Double First in 2027?",
+        "Will XRP Recover in 2027?",
+        "XRP Hits Its Lowest Price Since 2024: Here\u2019s What It Means for Holders"
+      ]
+    },
+    {
+      "ticker": "GC=F",
+      "price": 3886.3,
+      "change_pct": 0.03,
+      "flags": [
+        "Within 1% of its 52-week low"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 36.0,
+      "news": [
+        "Here are 5 things you may lose when you retire in America \u2014 and how to plan for life without them",
+        "How much gold should you have in your portfolio? Experts weigh in",
+        "I'm 55 and terrified the market will crash before I retire. Should I pull all my money out now?"
+      ]
+    },
+    {
+      "ticker": "SI=F",
+      "price": 49.12,
+      "change_pct": -1.7,
+      "flags": [
+        "Volume 719.1x the 20-day average",
+        "Within 1% of its 52-week low"
+      ],
+      "volume_x": 719.1,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 33.0,
+      "news": [
+        "3 Australian Penny Stocks With Up To 24% Net Profit Margin"
+      ]
+    }
+  ],
+  "failed": [],
+  "summary": null
+}
