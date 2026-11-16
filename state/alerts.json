@@ -4,7 +4,7 @@
     "level": -2
   },
   "BHP.AX": {
-    "bar_date": "2026-11-16",
+    "bar_date": "2026-11-17",
     "level": -1
   },
   "BTC-USD": {
@@ -24,7 +24,7 @@
     "level": -1
   },
   "FMG.AX": {
-    "bar_date": "2026-11-16",
+    "bar_date": "2026-11-17",
     "level": -1
   },
   "GC=F": {
@@ -36,8 +36,8 @@
     "level": 2
   },
   "NAB.AX": {
-    "bar_date": "2026-11-10",
-    "level": 1
+    "bar_date": "2026-11-17",
+    "level": -1
   },
   "NDQ.AX": {
     "bar_date": "2026-11-10",
@@ -66,6 +66,10 @@
   "YM=F": {
     "bar_date": "2026-11-09",
     "level": 1
+  },
+  "^ATLI": {
+    "bar_date": "2026-11-17",
+    "level": -1
   },
   "^NDX": {
     "bar_date": "2026-11-16",
