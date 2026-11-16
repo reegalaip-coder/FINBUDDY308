@@ -1,0 +1,372 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 27179.18,
+      "change_pct": -2.74,
+      "flags": [],
+      "volume_x": 0.1,
+      "range_pos_pct": 51.0,
+      "vs_200d": "below",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 59.63,
+      "change_pct": -1.26,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 47.0
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 27268.0,
+      "change_pct": -2.73,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 49.0,
+      "vs_200d": "below",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "YM=F",
+      "price": 51625.0,
+      "change_pct": -1.51,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 68.0,
+      "vs_200d": "above",
+      "rsi": 45.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7430.25,
+      "change_pct": -2.01,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 70.0,
+      "vs_200d": "above",
+      "rsi": 39.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2745.4,
+      "change_pct": -1.86,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 57.0,
+      "vs_200d": "below",
+      "rsi": 42.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 9044.7,
+      "change_pct": -0.41,
+      "flags": [],
+      "range_pos_pct": 75.0,
+      "vs_200d": "above",
+      "rsi": 59.0
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5246.0,
+      "change_pct": -0.59,
+      "flags": [],
+      "range_pos_pct": 82.0,
+      "vs_200d": "above",
+      "rsi": 57.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 35.54,
+      "change_pct": -0.14,
+      "flags": [
+        "Within 1% of its 52-week high"
+      ],
+      "volume_x": 0.6,
+      "range_pos_pct": 95.0,
+      "vs_200d": "above",
+      "rsi": 61.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 25144.3,
+      "change_pct": -0.61,
+      "flags": [
+        "RSI 76 (overbought zone)"
+      ],
+      "volume_x": 0.6,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 76.0,
+      "news": [
+        "The Test for India\u2019s $8.9 Billion Foreign Rally Arrives in December"
+      ]
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 61034.1,
+      "change_pct": -0.79,
+      "flags": [
+        "Within 1% of its 52-week high",
+        "RSI 77 (overbought zone)"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 95.0,
+      "vs_200d": "above",
+      "rsi": 77.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 72874.7,
+      "change_pct": -0.83,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 87.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 22681.25,
+      "change_pct": -0.35,
+      "flags": [],
+      "range_pos_pct": 79.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 17940.55,
+      "change_pct": -0.3,
+      "flags": [],
+      "range_pos_pct": 86.0,
+      "vs_200d": "above",
+      "rsi": 60.0
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 81592.45,
+      "change_pct": -0.39,
+      "flags": [
+        "RSI 79 (overbought zone)"
+      ],
+      "volume_x": 0.7,
+      "range_pos_pct": 71.0,
+      "vs_200d": "above",
+      "rsi": 79.0,
+      "news": []
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 31931.15,
+      "change_pct": -0.72,
+      "flags": [],
+      "volume_x": 0.4,
+      "range_pos_pct": 45.0,
+      "vs_200d": "above",
+      "rsi": 55.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 151.42,
+      "change_pct": -0.45,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 90.0,
+      "vs_200d": "above",
+      "rsi": 60.0
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 171.14,
+      "change_pct": 0.16,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 75.0,
+      "vs_200d": "above",
+      "rsi": 66.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 57.21,
+      "change_pct": -2.8,
+      "flags": [
+        "Closed below its 200-day average"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 67.0,
+      "vs_200d": "below",
+      "rsi": 44.0,
+      "news": [
+        "Nuclear Energy Stocks Gain as Reliable Power Demand Grows in US",
+        "Update: US Equity Futures Lower Pre-Bell as Traders Await Nvidia Results, Anthropic IPO",
+        "US Equity Futures Lower Pre-Bell as Traders Await Nvidia Results, Anthropic IPO"
+      ]
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 14.42,
+      "change_pct": -2.9,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 3.0,
+      "vs_200d": "below",
+      "rsi": 39.0
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 38.84,
+      "change_pct": -0.05,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 32.0,
+      "vs_200d": "below",
+      "rsi": 49.0
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 80.16,
+      "change_pct": -0.82,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 47.0,
+      "vs_200d": "above",
+      "rsi": 55.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 39.81,
+      "change_pct": 0.56,
+      "flags": [
+        "Within 1% of its 52-week high"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 98.0,
+      "vs_200d": "above",
+      "rsi": 62.0,
+      "news": []
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 27.72,
+      "change_pct": 0.51,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 87.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 64910.61,
+      "change_pct": -0.6,
+      "flags": [
+        "RSI 24 (oversold zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 23.0,
+      "vs_200d": "below",
+      "rsi": 24.0,
+      "news": [
+        "Bitcoin miners paid the electricity bill. Hackers collected the bitcoin.",
+        "Bitcoin falls as Anthropic IPO looms; Strategy and Strive buy the dip",
+        "Bitcoin's latest sell-off is a major warning sign"
+      ]
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 1819.1,
+      "change_pct": -0.89,
+      "flags": [
+        "RSI 26 (oversold zone)"
+      ],
+      "volume_x": 1.0,
+      "range_pos_pct": 21.0,
+      "vs_200d": "below",
+      "rsi": 26.0,
+      "news": [
+        "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+        "Binance\u2019s Pay Later lets you spend up to $1,000 without selling Bitcoin",
+        "Crypto Market Loses About $330 Billion in a Week as Bitcoin Slides and Inflation Fears Mount"
+      ]
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 71.35,
+      "change_pct": -1.83,
+      "flags": [
+        "RSI 21 (oversold zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 15.0,
+      "vs_200d": "below",
+      "rsi": 21.0,
+      "news": [
+        "Solana Breakpoint: What crypto investors should watch",
+        "Clarity Act Defeat \u2018Failure of American Leadership\u2019: Trump\u2019s Former Crypto Chief",
+        "Boris Johnson Links Bitcoin to Drug Dealers But Urges UK to Lead on Blockchain"
+      ]
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 0.96,
+      "change_pct": -1.99,
+      "flags": [
+        "RSI 26 (oversold zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 6.0,
+      "vs_200d": "below",
+      "rsi": 26.0,
+      "news": [
+        "What Could $100 a Month in XRP Be Worth by 2030?",
+        "3 Reasons to Buy XRP Before 2027 and 2 Reasons to Wait",
+        "XRP Price Struggles Below $1: Anthropic IPO and Nvidia Earnings Could Trigger Another 33% Drop"
+      ]
+    },
+    {
+      "ticker": "GC=F",
+      "price": 3856.5,
+      "change_pct": -0.77,
+      "flags": [
+        "New 52-week low"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 34.0,
+      "news": [
+        "BC-Gold-Silver",
+        "Gold Futures Settle at New 52-Week Low",
+        "HELOC balances jump $23 billion in one quarter as Americans tap $310K in average home equity at fastest pace since 2005"
+      ]
+    },
+    {
+      "ticker": "SI=F",
+      "price": 46.87,
+      "change_pct": -4.41,
+      "flags": [
+        "Down 4.4% on the day",
+        "Volume 1030.0x the 20-day average",
+        "New 52-week low",
+        "RSI 29 (oversold zone)"
+      ],
+      "volume_x": 1030.0,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 29.0,
+      "news": [
+        "BC-Gold-Silver",
+        "Gold Futures Settle at New 52-Week Low",
+        "Independence Gold Launches Diamond Drill Program at 3Ts Gold and Silver Project"
+      ]
+    }
+  ],
+  "failed": [],
+  "summary": null
+}
