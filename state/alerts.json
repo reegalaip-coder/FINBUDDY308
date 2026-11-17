@@ -28,8 +28,12 @@
     "level": -1
   },
   "GYG.AX": {
-    "bar_date": "2026-11-11",
-    "level": 2
+    "bar_date": "2026-11-17",
+    "level": -1
+  },
+  "ILC.AX": {
+    "bar_date": "2026-11-17",
+    "level": -1
   },
   "NAB.AX": {
     "bar_date": "2026-11-17",
@@ -40,6 +44,10 @@
     "level": 1
   },
   "NQ=F": {
+    "bar_date": "2026-11-16",
+    "level": -1
+  },
+  "RTY=F": {
     "bar_date": "2026-11-16",
     "level": -1
   },
