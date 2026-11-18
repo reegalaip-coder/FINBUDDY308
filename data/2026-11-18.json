@@ -1,0 +1,369 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 27078.93,
+      "change_pct": 0.29,
+      "flags": [],
+      "volume_x": 0.1,
+      "range_pos_pct": 50.0,
+      "vs_200d": "below",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 58.6,
+      "change_pct": -0.54,
+      "flags": [],
+      "volume_x": 1.3,
+      "range_pos_pct": 59.0,
+      "vs_200d": "above",
+      "rsi": 42.0
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 27177.75,
+      "change_pct": 0.38,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 48.0,
+      "vs_200d": "below",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "YM=F",
+      "price": 50267.0,
+      "change_pct": -1.08,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 53.0,
+      "vs_200d": "below",
+      "rsi": 36.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7343.0,
+      "change_pct": -0.22,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 64.0,
+      "vs_200d": "below",
+      "rsi": 36.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2722.1,
+      "change_pct": 0.4,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 54.0,
+      "vs_200d": "below",
+      "rsi": 40.0
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 8821.8,
+      "change_pct": -0.69,
+      "flags": [
+        "Closed below its 200-day average"
+      ],
+      "range_pos_pct": 50.0,
+      "vs_200d": "below",
+      "rsi": 43.0,
+      "news": []
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5120.5,
+      "change_pct": -0.46,
+      "flags": [],
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 42.0
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 34.61,
+      "change_pct": -0.66,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 79.0,
+      "vs_200d": "above",
+      "rsi": 44.0
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 25387.4,
+      "change_pct": 0.38,
+      "flags": [
+        "RSI 78 (overbought zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 77.0,
+      "vs_200d": "above",
+      "rsi": 78.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 62273.25,
+      "change_pct": 1.13,
+      "flags": [
+        "New 52-week high",
+        "RSI 80 (overbought zone)"
+      ],
+      "volume_x": 1.0,
+      "range_pos_pct": 100.0,
+      "vs_200d": "above",
+      "rsi": 80.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 72693.0,
+      "change_pct": 0.28,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 86.0,
+      "vs_200d": "above",
+      "rsi": 63.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 22648.7,
+      "change_pct": 0.27,
+      "flags": [],
+      "range_pos_pct": 78.0,
+      "vs_200d": "above",
+      "rsi": 64.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 17754.85,
+      "change_pct": -0.09,
+      "flags": [],
+      "range_pos_pct": 82.0,
+      "vs_200d": "above",
+      "rsi": 55.0
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 82532.19,
+      "change_pct": 0.52,
+      "flags": [
+        "RSI 81 (overbought zone)"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 77.0,
+      "vs_200d": "above",
+      "rsi": 81.0,
+      "news": []
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 31654.1,
+      "change_pct": -0.9,
+      "flags": [],
+      "volume_x": 0.7,
+      "range_pos_pct": 43.0,
+      "vs_200d": "above",
+      "rsi": 51.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 147.76,
+      "change_pct": -0.68,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 68.0,
+      "vs_200d": "above",
+      "rsi": 44.0
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 170.88,
+      "change_pct": 0.26,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 74.0,
+      "vs_200d": "above",
+      "rsi": 65.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 54.34,
+      "change_pct": -0.07,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 57.0,
+      "vs_200d": "below",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 13.49,
+      "change_pct": -0.95,
+      "flags": [
+        "New 52-week low"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 31.0,
+      "news": [
+        "BHP, Rio Tinto executives to meet Chinese leaders amid iron ore tensions"
+      ]
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 37.04,
+      "change_pct": -1.93,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 18.0,
+      "vs_200d": "below",
+      "rsi": 38.0
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 78.18,
+      "change_pct": -0.77,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 37.0,
+      "vs_200d": "below",
+      "rsi": 47.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 39.02,
+      "change_pct": -1.19,
+      "flags": [],
+      "volume_x": 1.2,
+      "range_pos_pct": 87.0,
+      "vs_200d": "above",
+      "rsi": 52.0
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 27.35,
+      "change_pct": 0.44,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 85.0,
+      "vs_200d": "above",
+      "rsi": 59.0
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 62400.97,
+      "change_pct": -3.84,
+      "flags": [
+        "Down 3.8% on the day",
+        "RSI 21 (oversold zone)"
+      ],
+      "volume_x": 1.0,
+      "range_pos_pct": 14.0,
+      "vs_200d": "below",
+      "rsi": 21.0,
+      "news": [
+        "Coinbase expands crypto-backed loans to New York, now reaching all 50 states",
+        "Bitcoin bottom in? Analyst spots key $63K support",
+        "What Will 3,000 XRP Be Worth in 5 Years?"
+      ]
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 1747.28,
+      "change_pct": -4.15,
+      "flags": [
+        "Down 4.2% on the day",
+        "RSI 24 (oversold zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 15.0,
+      "vs_200d": "below",
+      "rsi": 24.0,
+      "news": [
+        "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+        "Coinbase expands crypto-backed loans to New York, now reaching all 50 states",
+        "XRP Price Prediction 2028: Every Major Forecast Compared"
+      ]
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 72.86,
+      "change_pct": -2.99,
+      "flags": [
+        "RSI 27 (oversold zone)"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 18.0,
+      "vs_200d": "below",
+      "rsi": 27.0,
+      "news": [
+        "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+        "Coinbase expands crypto-backed loans to New York, now reaching all 50 states",
+        "A Hacker Who Stole $270 Million Is Moving It Into Tornado Cash. Can Stolen Crypto Ever Be Recovered?"
+      ]
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 0.96,
+      "change_pct": -1.86,
+      "flags": [
+        "RSI 30 (oversold zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 8.0,
+      "vs_200d": "below",
+      "rsi": 30.0,
+      "news": [
+        "What Will 3,000 XRP Be Worth in 5 Years?",
+        "XRP Price Prediction 2028: Every Major Forecast Compared",
+        "Did Avalanche\u2019s New NYSE Deal Just Make Solana and XRP Irrelevant?"
+      ]
+    },
+    {
+      "ticker": "GC=F",
+      "price": 3733.7,
+      "change_pct": -3.38,
+      "flags": [
+        "Down 3.4% on the day",
+        "New 52-week low",
+        "RSI 29 (oversold zone)"
+      ],
+      "volume_x": 1.3,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 29.0,
+      "news": [
+        "BC-Gold-Silver",
+        "Gold Just Crashed 32% From Its Record in 10 Months, Shattering the Safe Haven Retirees Leaned On. Warren Buffett Spent Decades Warning About Exactly This, and His Reason Wasn\u2019t the Price",
+        "Gold, Silver, Platinum Pounded To One-Year-Plus Lows After This Shock"
+      ]
+    },
+    {
+      "ticker": "SI=F",
+      "price": 45.06,
+      "change_pct": -4.71,
+      "flags": [
+        "Down 4.7% on the day",
+        "Volume 942.9x the 20-day average",
+        "New 52-week low",
+        "RSI 27 (oversold zone)"
+      ],
+      "volume_x": 942.9,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 27.0,
+      "news": [
+        "Gold, Silver, Platinum Pounded To One-Year-Plus Lows After This Shock",
+        "Basic Materials Roundup: Market Talk",
+        "Arizona Gold and Silver uncovers broad gold-silver zone with high-grade Perry Zone results"
+      ]
+    }
+  ],
+  "failed": [],
+  "summary": null
+}
