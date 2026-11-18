@@ -28,7 +28,7 @@
     "level": -2
   },
   "GC=F": {
-    "bar_date": "2026-11-12",
+    "bar_date": "2026-11-18",
     "level": -1
   },
   "GYG.AX": {
@@ -52,8 +52,8 @@
     "level": -1
   },
   "SI=F": {
-    "bar_date": "2026-11-17",
-    "level": 1
+    "bar_date": "2026-11-18",
+    "level": -1
   },
   "SOL-USD": {
     "bar_date": "2026-11-18",
