@@ -1,4 +1,8 @@
 {
+  "ANZ.AX": {
+    "bar_date": "2026-11-18",
+    "level": -1
+  },
   "BHP.AX": {
     "bar_date": "2026-11-18",
     "level": 1
@@ -39,10 +43,6 @@
     "bar_date": "2026-11-17",
     "level": -1
   },
-  "NDQ.AX": {
-    "bar_date": "2026-11-10",
-    "level": 1
-  },
   "NQ=F": {
     "bar_date": "2026-11-17",
     "level": -1
@@ -56,11 +56,11 @@
     "level": 1
   },
   "SOL-USD": {
-    "bar_date": "2026-11-17",
+    "bar_date": "2026-11-18",
     "level": 2
   },
   "XRP-USD": {
-    "bar_date": "2026-11-17",
+    "bar_date": "2026-11-18",
     "level": 1
   },
   "^ATLI": {
