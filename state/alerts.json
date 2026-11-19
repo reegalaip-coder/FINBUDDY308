@@ -32,8 +32,8 @@
     "level": -1
   },
   "GYG.AX": {
-    "bar_date": "2026-11-19",
-    "level": -2
+    "bar_date": "2026-11-20",
+    "level": -1
   },
   "ILC.AX": {
     "bar_date": "2026-11-17",
@@ -41,6 +41,10 @@
   },
   "NAB.AX": {
     "bar_date": "2026-11-17",
+    "level": -1
+  },
+  "NDQ.AX": {
+    "bar_date": "2026-11-20",
     "level": -1
   },
   "NQ=F": {
@@ -68,11 +72,11 @@
     "level": -1
   },
   "^ATLI": {
-    "bar_date": "2026-11-18",
+    "bar_date": "2026-11-20",
     "level": -1
   },
   "^AXJO": {
-    "bar_date": "2026-11-18",
+    "bar_date": "2026-11-20",
     "level": -1
   },
   "^NDX": {
