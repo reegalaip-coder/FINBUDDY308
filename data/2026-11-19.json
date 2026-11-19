@@ -1,0 +1,381 @@
+{
+  "results": [
+    {
+      "ticker": "^NDX",
+      "price": 26571.52,
+      "change_pct": -2.01,
+      "flags": [],
+      "volume_x": 0.1,
+      "range_pos_pct": 44.0,
+      "vs_200d": "below",
+      "rsi": 34.0
+    },
+    {
+      "ticker": "NDQ.AX",
+      "price": 59.6,
+      "change_pct": 1.71,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 66.0,
+      "vs_200d": "above",
+      "rsi": 48.0
+    },
+    {
+      "ticker": "NQ=F",
+      "price": 26626.0,
+      "change_pct": -2.06,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 42.0,
+      "vs_200d": "below",
+      "rsi": 34.0
+    },
+    {
+      "ticker": "YM=F",
+      "price": 49221.0,
+      "change_pct": -2.09,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 42.0,
+      "vs_200d": "below",
+      "rsi": 31.0
+    },
+    {
+      "ticker": "ES=F",
+      "price": 7202.5,
+      "change_pct": -1.88,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 55.0,
+      "vs_200d": "below",
+      "rsi": 31.0
+    },
+    {
+      "ticker": "RTY=F",
+      "price": 2667.4,
+      "change_pct": -2.01,
+      "flags": [
+        "50-day average crossed below the 200-day (death cross)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 47.0,
+      "vs_200d": "below",
+      "rsi": 35.0,
+      "news": []
+    },
+    {
+      "ticker": "^AXJO",
+      "price": 8730.4,
+      "change_pct": -1.04,
+      "flags": [],
+      "range_pos_pct": 40.0,
+      "vs_200d": "below",
+      "rsi": 38.0
+    },
+    {
+      "ticker": "^ATLI",
+      "price": 5063.7,
+      "change_pct": -1.11,
+      "flags": [
+        "Closed below its 200-day average"
+      ],
+      "range_pos_pct": 56.0,
+      "vs_200d": "below",
+      "rsi": 37.0,
+      "news": []
+    },
+    {
+      "ticker": "ILC.AX",
+      "price": 34.26,
+      "change_pct": -1.01,
+      "flags": [
+        "Volume 2.3x the 20-day average"
+      ],
+      "volume_x": 2.3,
+      "range_pos_pct": 72.0,
+      "vs_200d": "above",
+      "rsi": 40.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSEI",
+      "price": 25227.95,
+      "change_pct": -0.63,
+      "flags": [
+        "RSI 73 (overbought zone)"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 73.0,
+      "vs_200d": "above",
+      "rsi": 73.0,
+      "news": [
+        "Asia\u2019s non-AI market beneficiaries: Watch these markets as tech valuations sink"
+      ]
+    },
+    {
+      "ticker": "^NSEBANK",
+      "price": 62038.65,
+      "change_pct": -0.38,
+      "flags": [
+        "Within 1% of its 52-week high",
+        "RSI 78 (overbought zone)"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 98.0,
+      "vs_200d": "above",
+      "rsi": 78.0,
+      "news": []
+    },
+    {
+      "ticker": "^NSMIDCP",
+      "price": 71714.7,
+      "change_pct": -1.35,
+      "flags": [],
+      "volume_x": 0.8,
+      "range_pos_pct": 79.0,
+      "vs_200d": "above",
+      "rsi": 56.0
+    },
+    {
+      "ticker": "NIFTYMIDCAP150.NS",
+      "price": 22389.9,
+      "change_pct": -1.14,
+      "flags": [],
+      "range_pos_pct": 72.0,
+      "vs_200d": "above",
+      "rsi": 57.0
+    },
+    {
+      "ticker": "NIFTYSMLCAP250.NS",
+      "price": 17667.5,
+      "change_pct": -0.49,
+      "flags": [],
+      "range_pos_pct": 80.0,
+      "vs_200d": "above",
+      "rsi": 53.0
+    },
+    {
+      "ticker": "^BSESN",
+      "price": 82031.81,
+      "change_pct": -0.61,
+      "flags": [
+        "RSI 76 (overbought zone)"
+      ],
+      "volume_x": 1.0,
+      "range_pos_pct": 74.0,
+      "vs_200d": "above",
+      "rsi": 76.0,
+      "news": []
+    },
+    {
+      "ticker": "^CNXIT",
+      "price": 31262.3,
+      "change_pct": -1.24,
+      "flags": [],
+      "volume_x": 0.5,
+      "range_pos_pct": 40.0,
+      "vs_200d": "above",
+      "rsi": 47.0
+    },
+    {
+      "ticker": "A200.AX",
+      "price": 146.27,
+      "change_pct": -1.01,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 57.0,
+      "vs_200d": "above",
+      "rsi": 39.0
+    },
+    {
+      "ticker": "CBA.AX",
+      "price": 171.63,
+      "change_pct": 0.44,
+      "flags": [],
+      "volume_x": 1.0,
+      "range_pos_pct": 76.0,
+      "vs_200d": "above",
+      "rsi": 66.0
+    },
+    {
+      "ticker": "BHP.AX",
+      "price": 52.34,
+      "change_pct": -3.68,
+      "flags": [
+        "Down 3.7% on the day"
+      ],
+      "volume_x": 1.5,
+      "range_pos_pct": 49.0,
+      "vs_200d": "below",
+      "rsi": 32.0,
+      "news": [
+        "Time for Copper-Focused BHP to Show How It Can Grow",
+        "3 Mining Giants Pay Big Dividends, but Their Yields Come With a Catch"
+      ]
+    },
+    {
+      "ticker": "FMG.AX",
+      "price": 13.16,
+      "change_pct": -2.45,
+      "flags": [
+        "New 52-week low",
+        "RSI 28 (oversold zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 28.0,
+      "news": []
+    },
+    {
+      "ticker": "NAB.AX",
+      "price": 36.72,
+      "change_pct": -0.86,
+      "flags": [],
+      "volume_x": 1.1,
+      "range_pos_pct": 15.0,
+      "vs_200d": "below",
+      "rsi": 37.0
+    },
+    {
+      "ticker": "WES.AX",
+      "price": 77.51,
+      "change_pct": -0.86,
+      "flags": [],
+      "volume_x": 0.6,
+      "range_pos_pct": 34.0,
+      "vs_200d": "below",
+      "rsi": 44.0
+    },
+    {
+      "ticker": "ANZ.AX",
+      "price": 39.0,
+      "change_pct": -0.05,
+      "flags": [],
+      "volume_x": 0.9,
+      "range_pos_pct": 87.0,
+      "vs_200d": "above",
+      "rsi": 51.0
+    },
+    {
+      "ticker": "GYG.AX",
+      "price": 26.07,
+      "change_pct": -4.68,
+      "flags": [
+        "Down 4.7% on the day"
+      ],
+      "volume_x": 1.7,
+      "range_pos_pct": 76.0,
+      "vs_200d": "above",
+      "rsi": 46.0,
+      "news": []
+    },
+    {
+      "ticker": "BTC-USD",
+      "price": 62094.37,
+      "change_pct": -1.42,
+      "flags": [
+        "RSI 21 (oversold zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 13.0,
+      "vs_200d": "below",
+      "rsi": 21.0,
+      "news": [
+        "Is Anthropic the reason for bitcoin's pullback?",
+        "Expect crypto to rebound after Anthropic's IPO, and Coinbase launching spot margin returns",
+        "NBA star Tristan Thompson didn't miss his shot on the Anthropic IPO \u2014 and he's not cashing out"
+      ]
+    },
+    {
+      "ticker": "ETH-USD",
+      "price": 1761.79,
+      "change_pct": -0.73,
+      "flags": [
+        "RSI 24 (oversold zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 16.0,
+      "vs_200d": "below",
+      "rsi": 24.0,
+      "news": [
+        "Bitmine Just Posted a Staggering $6.3 Billion Loss on Its Ethereum Position. Here's What ETH Investors Need to Know.",
+        "North Korean Hackers Used Sky's PSM: CoinDesk",
+        "Global Securities Regulators Tell Financial Firms to Plan for a Surprise Quantum Zero-Day"
+      ]
+    },
+    {
+      "ticker": "SOL-USD",
+      "price": 72.93,
+      "change_pct": -0.94,
+      "flags": [
+        "RSI 27 (oversold zone)"
+      ],
+      "volume_x": 0.8,
+      "range_pos_pct": 18.0,
+      "vs_200d": "below",
+      "rsi": 27.0,
+      "news": [
+        "As Anthropic Goes Public, Open Source AI Is Closing In Says Google Pioneer",
+        "Anthropic's $107 billion sale set to top SpaceX's IPO",
+        "Block (XYZ), Why Is It Back In Focus?"
+      ]
+    },
+    {
+      "ticker": "XRP-USD",
+      "price": 0.96,
+      "change_pct": -0.55,
+      "flags": [
+        "RSI 29 (oversold zone)"
+      ],
+      "volume_x": 0.9,
+      "range_pos_pct": 8.0,
+      "vs_200d": "below",
+      "rsi": 29.0,
+      "news": [
+        "How Much XRP Do You Need to Be a Millionaire by 2035?",
+        "Ripple CEO Blames Anthropic IPO for Crypto Selloff, Predicts Rally",
+        "What XRP Did Every Time It Fell 70% From Its All-Time High"
+      ]
+    },
+    {
+      "ticker": "GC=F",
+      "price": 3667.9,
+      "change_pct": -1.98,
+      "flags": [
+        "New 52-week low",
+        "RSI 26 (oversold zone)"
+      ],
+      "volume_x": 1.1,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 26.0,
+      "news": [
+        "BC-Gold-Silver",
+        "Retirement savers see gold\u2019s appeal. Why do so few own it?",
+        "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million"
+      ]
+    },
+    {
+      "ticker": "SI=F",
+      "price": 43.91,
+      "change_pct": -2.42,
+      "flags": [
+        "Volume 699.3x the 20-day average",
+        "New 52-week low",
+        "RSI 25 (oversold zone)"
+      ],
+      "volume_x": 699.3,
+      "range_pos_pct": 0.0,
+      "vs_200d": "below",
+      "rsi": 25.0,
+      "news": [
+        "Gold, Silver Futures Extend Losses",
+        "Is the copper sell-off setting up a longer-term buying opportunity? UBS explains",
+        "Silver prices today, Thursday, November 19, 2026: Silver is down 21% since last month"
+      ]
+    }
+  ],
+  "failed": [],
+  "summary": null
+}
