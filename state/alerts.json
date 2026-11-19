@@ -48,12 +48,12 @@
     "level": 1
   },
   "RTY=F": {
-    "bar_date": "2026-11-16",
+    "bar_date": "2026-11-19",
     "level": -1
   },
   "SI=F": {
-    "bar_date": "2026-11-18",
-    "level": -2
+    "bar_date": "2026-11-19",
+    "level": -1
   },
   "SOL-USD": {
     "bar_date": "2026-11-19",
@@ -62,6 +62,10 @@
   "XRP-USD": {
     "bar_date": "2026-11-19",
     "level": 1
+  },
+  "YM=F": {
+    "bar_date": "2026-11-19",
+    "level": -1
   },
   "^ATLI": {
     "bar_date": "2026-11-18",
