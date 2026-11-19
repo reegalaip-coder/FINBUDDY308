@@ -16,7 +16,7 @@
     "level": 1
   },
   "ES=F": {
-    "bar_date": "2026-11-16",
+    "bar_date": "2026-11-19",
     "level": -1
   },
   "ETH-USD": {
@@ -28,7 +28,7 @@
     "level": -1
   },
   "GC=F": {
-    "bar_date": "2026-11-18",
+    "bar_date": "2026-11-19",
     "level": -1
   },
   "GYG.AX": {
@@ -53,11 +53,11 @@
   },
   "SI=F": {
     "bar_date": "2026-11-19",
-    "level": -1
+    "level": -2
   },
   "SOL-USD": {
     "bar_date": "2026-11-19",
-    "level": 1
+    "level": -1
   },
   "XRP-USD": {
     "bar_date": "2026-11-19",
