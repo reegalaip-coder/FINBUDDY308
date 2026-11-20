@@ -16,7 +16,6 @@
 
 
 ^NDX     # Nasdaq 100 index
-NDQ.AX
 NQ=F      # Nasdaq 100 E-mini futures
 YM=F      # Dow Jones (US30) E-mini futures
 ES=F      # S&P 500 E-mini futures
@@ -32,11 +31,17 @@ NIFTYSMLCAP250.NS       # Nifty Smallcap 250
 ^BSESN         # BSE Sensex
 ^CNXIT         # Nifty IT
 A200.AX
+ILC.AX
+NDQ.AX
 CBA.AX
 BHP.AX
+RIO.AX
 FMG.AX
 NAB.AX
 WES.AX
+WOW.AX
+COL.AX
+GMG.AX
 ANZ.AX
 GYG.AX
 BTC-USD
