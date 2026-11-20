@@ -20,8 +20,8 @@
     "level": -1
   },
   "FMG.AX": {
-    "bar_date": "2026-11-19",
-    "level": -1
+    "bar_date": "2026-11-20",
+    "level": 1
   },
   "GC=F": {
     "bar_date": "2026-11-20",
@@ -41,7 +41,7 @@
   },
   "NDQ.AX": {
     "bar_date": "2026-11-20",
-    "level": -1
+    "level": -2
   },
   "NQ=F": {
     "bar_date": "2026-11-19",
