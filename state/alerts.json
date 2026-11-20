@@ -11,10 +11,6 @@
     "bar_date": "2026-11-19",
     "level": -1
   },
-  "CBA.AX": {
-    "bar_date": "2026-11-12",
-    "level": 1
-  },
   "ES=F": {
     "bar_date": "2026-11-19",
     "level": -1
@@ -57,7 +53,7 @@
   },
   "SI=F": {
     "bar_date": "2026-11-19",
-    "level": -2
+    "level": -3
   },
   "SOL-USD": {
     "bar_date": "2026-11-19",
